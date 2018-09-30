@@ -6,7 +6,7 @@ namespace HomeTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! GitHub Test입니다.ggg");
         }
     }
 }
